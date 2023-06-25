@@ -1,0 +1,39 @@
+{"question": "What is the role of the Election Commission according to Part XV of the Indian Constitution?", "answer": "According to Part XV of the Indian Constitution, the Election Commission is responsible for the superintendence, direction, and control of the preparation of electoral rolls and the conduct of elections to Parliament, State Legislatures, and the offices of President and Vice-President."}
+
+{"question": "How is the Election Commission constituted?", "answer": "The Election Commission consists of the Chief Election Commissioner and other Election Commissioners, if any, as the President may fix from time to time. Their appointment is made by the President, subject to any law made by Parliament."}
+
+{"question": "What is the role of the Chief Election Commissioner?", "answer": "The Chief Election Commissioner acts as the Chairman of the Election Commission and has the authority to recommend removal of any other Election Commissioner or Regional Commissioner from office."}
+
+{"question": "What are the conditions for the removal of the Chief Election Commissioner from office?", "answer": "The Chief Election Commissioner can only be removed from office in the same manner and on the same grounds as a Judge of the Supreme Court. The conditions of service for the Chief Election Commissioner cannot be varied to their disadvantage after their appointment."}
+
+{"question": "What is the role of Regional Commissioners?", "answer": "Regional Commissioners are appointed by the President after consultation with the Election Commission to assist the Election Commission in performing its functions, particularly during general elections to the House of the People and State Legislative Assemblies."}
+
+{"question": "What is the provision regarding electoral rolls in the Indian Constitution?", "answer": "According to the Indian Constitution, there shall be one general electoral roll for every territorial constituency for elections to either House of Parliament or the House or either House of the State Legislature. No person shall be ineligible for inclusion in any such roll or claim to be included in a special electoral roll on grounds of religion, race, caste, sex, or any of them."}
+
+{"question": "What is the basis of elections to the House of the People and Legislative Assemblies of States?", "answer": "Elections to the House of the People and the Legislative Assembly of every State are based on adult suffrage, meaning every Indian citizen who is not less than eighteen years of age and not disqualified on certain grounds can be registered as a voter at such elections."}
+
+{"question": "What powers does Parliament have in regard to elections?", "answer": "Subject to the provisions of the Constitution, Parliament can make laws related to all matters concerning elections to either House of Parliament or the House or either House of the State Legislature, including electoral rolls, delimitation of constituencies, and other matters necessary for securing the due constitution of such Houses."}
+
+{"question": "What powers does a State Legislature have in regard to elections?", "answer": "Subject to the provisions of the Constitution and any law made by Parliament, the Legislature of a State can make laws related to all matters concerning elections to the House or either House of the State Legislature, including electoral rolls and other matters necessary for securing the due constitution of such Houses."}
+
+{"question": "What is the bar to interference by courts in electoral matters?", "answer": "According to the Constitution, the validity of any law related to delimitation of constituencies or the allotment of seats to such constituencies cannot be questioned in court. Additionally, no election to either House of Parliament or the House or either House of the State Legislature can be called into question except by an election petition presented to an authority and in a manner as provided by law made by the appropriate Legislature."}
+
+{"question": "What is the age requirement to be a voter in India?", "answer": "In India, a person must be at least 18 years of age to be registered as a voter in elections."}
+
+{"question": "Can someone be ineligible for inclusion in the electoral roll based on their religion, race, caste, or sex?", "answer": "No, a person cannot be ineligible for inclusion in the electoral roll or claim to be included in a special electoral roll based on their religion, race, caste, or sex."}
+
+{"question": "What are the grounds for disqualification to be registered as a voter?", "answer": "A person can be disqualified to be registered as a voter under the Indian Constitution or any law made by the appropriate Legislature on the grounds of non-residence, unsoundness of mind, crime, or corrupt or illegal practice."}
+
+{"question": "Who can appoint Regional Commissioners?", "answer": "The President of India can appoint Regional Commissioners after consultation with the Election Commission."}
+
+{"question": "What is the role of the President and Governors in providing staff to the Election Commission?", "answer": "When requested by the Election Commission, the President or the Governor of a State must make available to the Election Commission or a Regional Commissioner such staff as necessary for the discharge of the functions conferred on the Election Commission by the Constitution."}
+
+{"question": "What is the tenure of office of Election Commissioners and Regional Commissioners?", "answer": "The conditions of service and tenure of office of the Election Commissioners and Regional Commissioners are determined by the President of India, subject to the provisions of any law made by Parliament."}
+
+{"question": "Can the Chief Election Commissioner be removed on the recommendation of another Election Commissioner?", "answer": "No, the Chief Election Commissioner can only be removed in the same manner and on the same grounds as a Judge of the Supreme Court, and not on the recommendation of another Election Commissioner."}
+
+{"question": "What is the purpose of having one general electoral roll for every territorial constituency?", "answer": "Having one general electoral roll for every territorial constituency ensures uniformity in the electoral process and prevents discrimination or special treatment based on factors like religion, race, caste, or sex."}
+
+{"question": "Can a person be disqualified from being a voter based on their residence?", "answer": "Yes, a person can be disqualified from being a voter based on non-residence, as per the Indian Constitution or any law made by the appropriate Legislature."}
+
+{"question": "Who is responsible for making provisions related to the preparation of electoral rolls and delimitation of constituencies?", "answer": "Parliament is responsible for making provisions related to the preparation of electoral rolls and delimitation of constituencies for elections to either House of Parliament or the House or either House of the State Legislature, subject to the provisions of the Constitution."}

@@ -1,0 +1,39 @@
+{"question": "What does Part VI of the Constitution of India cover?", "answer": "Part VI of the Constitution of India covers the provisions related to the States. It is divided into several chapters, discussing the general definition, the executive, the legislature, and other aspects of the State governments."}
+
+{"question": "How is the executive power of a State exercised according to Article 154?", "answer": "According to Article 154 of the Constitution of India, the executive power of a State is vested in the Governor and is exercised by him either directly or through officers subordinate to him, in accordance with the Constitution."}
+
+{"question": "How is the Governor of a State appointed?", "answer": "As per Article 155, the Governor of a State is appointed by the President of India by warrant under his hand and seal."}
+
+{"question": "What is the term of office for a Governor?", "answer": "According to Article 156, a Governor holds office for a term of five years from the date on which he enters upon his office. However, the Governor serves at the pleasure of the President and may resign by writing under his hand addressed to the President. A Governor may continue to hold office until his successor enters upon the office, notwithstanding the expiration of his term."}
+
+{"question": "What are the qualifications for appointment as a Governor?", "answer": "As per Article 157, a person must be a citizen of India and should have completed the age of thirty-five years to be eligible for appointment as a Governor."}
+
+{"question": "What are the conditions of a Governor's office?", "answer": "Article 158 states that a Governor cannot be a member of either House of Parliament or of a House of the Legislature of any State. The Governor cannot hold any other office of profit and is entitled to emoluments, allowances, and privileges as determined by Parliament by law or as specified in the Second Schedule."}
+
+{"question": "What is the power of a Governor to grant pardons according to Article 161?", "answer": "Article 161 states that the Governor of a State has the power to grant pardons, reprieves, respites, or remissions of punishment, or to suspend, remit, or commute the sentence of any person convicted of any offence against any law relating to a matter to which the executive power of the State extends."}
+
+{"question": "What is the role of the Council of Ministers in aiding and advising the Governor?", "answer": "According to Article 163, the Council of Ministers, with the Chief Minister at the head, aids and advises the Governor in the exercise of his functions, except in cases where the Governor is required to exercise his functions or any of them in his discretion by or under the Constitution."}
+
+{"question": "How are the Chief Minister and other Ministers appointed?", "answer": "As per Article 164, the Chief Minister is appointed by the Governor, and the other Ministers are appointed by the Governor on the advice of the Chief Minister. The Ministers hold office during the pleasure of the Governor."}
+
+{"question": "What is the composition of the Legislative Assembly of a State?", "answer": "Article 170 states that the Legislative Assembly of each State consists of not more than 500 and not less than 60 members, chosen by direct election from territorial constituencies in the State, subject to the provisions of Article 333."}
+
+{"question": "What is the process of readjustment of seats in the Legislative Assembly after each census?", "answer": "According to Article 170(3), upon the completion of each census, the total number of seats in the Legislative Assembly of each State and the division of each State into territorial constituencies are to be readjusted by an authority and in a manner as determined by Parliament by law. The readjustment doesn't affect representation in the Legislative Assembly until the dissolution of the existing Assembly."}
+
+{"question": "How is the composition of the Legislative Council determined?", "answer": "Article 171 states that the total number of members in the Legislative Council of a State shall not exceed one-third of the total number of members in the Legislative Assembly of that State, with a minimum of 40 members. The composition of the Council includes members elected by various electorates, members elected by the Legislative Assembly, and members nominated by the Governor."}
+
+{"question": "What are the qualifications for a person to be appointed as an Advocate-General for a State?", "answer": "According to Article 165, a person appointed as an Advocate-General for a State should be qualified to be appointed as a Judge of a High Court."}
+
+{"question": "What is the role of the Advocate-General for a State?", "answer": "As per Article 165, the Advocate-General's duties include giving advice to the State Government on legal matters, performing other duties of a legal character as assigned by the Governor, and discharging the functions conferred on him by the Constitution or any other law for the time being in force."}
+
+{"question": "How is the executive action of the Government of a State expressed?", "answer": "Article 166(1) states that all executive actions of the Government of a State shall be expressed to be taken in the name of the Governor."}
+
+{"question": "What are the duties of the Chief Minister as respects the furnishing of information to the Governor?", "answer": "According to Article 167, the Chief Minister's duties include communicating all decisions of the Council of Ministers relating to the administration of the State and proposals for legislation to the Governor, furnishing information relating to the administration of the State and proposals for legislation as the Governor may call for, and submitting any matter for the consideration of the Council of Ministers on the Governor's request."}
+
+{"question": "What is the composition of the Legislature in the States of India?", "answer": "Article 168 states that the Legislature of each State consists of the Governor and, in the case of the States of Andhra Pradesh, Bihar, Madhya Pradesh, Maharashtra, Karnataka, Tamil Nadu, and Uttar Pradesh, two Houses (Legislative Council and Legislative Assembly); in other States, there is only one House (Legislative Assembly)."}
+
+{"question": "Can the Legislative Council of a State be abolished or created?", "answer": "Article 169 allows Parliament to provide for the abolition of the Legislative Council of a State having such a Council or for the creation of such a Council in a State having no such Council, if the Legislative Assembly of the State passes a resolution to that effect by a majority of the total membership of the Assembly and by a majority of not less than two-thirds of the members of the Assembly present and voting."}
+
+{"question": "What is the role of the Governor in the nomination of members to the Legislative Council?", "answer": "As per Article 171(3)(e), the Governor nominates the remaining members of the Legislative Council, who are persons having special knowledge or practical experience in literature, science, art, co-operative movement, and social service."}
+
+{"question": "What is the Legislative Assembly of a State responsible for?", "answer": "The Legislative Assembly of a State is responsible for the making of laws, discussing and approving budgets, and holding the Council of Ministers accountable for their actions and decisions. The Council of Ministers, headed by the Chief Minister, is collectively responsible to the Legislative Assembly of the State, as stated in Article 164(2)."}

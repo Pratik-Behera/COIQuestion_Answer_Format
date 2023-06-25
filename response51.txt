@@ -1,0 +1,39 @@
+{"question": "What are some subjects under the Constitution of India related to trade unions and labour?", "answer": "Subjects related to trade unions and labour under the Constitution of India include industrial and labour disputes, social security and social insurance, employment and unemployment, welfare of labour, conditions of work, provident funds, employers' liability, workmen's compensation, invalidity and old age pensions, maternity benefits, and vocational and technical training of labour."}
+
+{"question": "What aspects of education are covered under the Constitution of India?", "answer": "The Constitution of India covers education, including technical education, medical education, universities, vocational and technical training of labour, and provisions of entries 63, 64, 65, and 66 of List I."}
+
+{"question": "How does the Constitution of India address legal, medical, and other professions?", "answer": "The Constitution of India covers legal, medical, and other professions in entry 26 of the State List under the Seventh Schedule, which enumerates the subjects on which state governments have the authority to legislate."}
+
+{"question": "What provisions are in the Constitution of India regarding relief and rehabilitation of displaced persons?", "answer": "The Constitution of India addresses the relief and rehabilitation of persons displaced from their original place of residence due to the setting up of the Dominions of India and Pakistan in entry 27 of the State List under the Seventh Schedule."}
+
+{"question": "What subjects are covered under the Constitution of India related to charities, endowments, and institutions?", "answer": "The subjects covered under the Constitution of India related to charities and endowments include charitable institutions, charitable and religious endowments, and religious institutions. These subjects are mentioned in entry 28 of the State List under the Seventh Schedule."}
+
+{"question": "How does the Constitution of India handle the prevention of infectious diseases?", "answer": "The Constitution of India handles the prevention of the extension of infectious or contagious diseases from one state to another through entry 29 of the State List under the Seventh Schedule. This provision covers diseases or pests affecting men, animals, or plants."}
+
+{"question": "What subjects are covered under the Constitution of India related to vital statistics?", "answer": "The Constitution of India covers vital statistics, including registration of births and deaths, under entry 30 of the State List in the Seventh Schedule."}
+
+{"question": "How does the Constitution of India address ports and shipping?", "answer": "The Constitution of India addresses ports, shipping, and navigation on inland waterways through entries 31 and 32 of the State List under the Seventh Schedule. It covers ports other than major ports, mechanically propelled vessels, the rule of the road on waterways, and the carriage of passengers and goods on inland waterways, subject to provisions of List I with respect to national waterways."}
+
+{"question": "What subjects are covered under the Constitution of India related to trade and commerce?", "answer": "The Constitution of India covers subjects related to trade and commerce in entry 33 of the State List under the Seventh Schedule. It includes the production, supply, and distribution of products of industries where the control is declared by Parliament to be expedient in the public interest, imported goods of the same kind, foodstuffs, cattle fodder, raw cotton, and raw jute."}
+
+{"question": "How does the Constitution of India address weights and measures?", "answer": "The Constitution of India addresses weights and measures, except the establishment of standards, under entry 33A of the State List in the Seventh Schedule."}
+
+{"question": "What subjects are covered under the Constitution of India related to price control?", "answer": "The Constitution of India covers price control in entry 34 of the State List under the Seventh Schedule."}
+
+{"question": "How does the Constitution of India address mechanically propelled vehicles?", "answer": "The Constitution of India addresses mechanically propelled vehicles, including the principles on which taxes on such vehicles are to be levied, under entry 35 of the State List in the Seventh Schedule."}
+
+{"question": "What subjects are covered under the Constitution of India related to factories and electricity?", "answer": "The subjects covered under the Constitution of India related to factories and electricity include factories (entry 36), boilers (entry 37), and electricity (entry 38) in the State List under the Seventh Schedule."}
+
+{"question": "How does the Constitution of India address newspapers, books, and printing presses?", "answer": "The Constitution of India addresses newspapers, books, and printing presses under entry 39 of the State List in the Seventh Schedule."}
+
+{"question": "What subjects are covered under the Constitution of India related to archaeological sites?", "answer": "The Constitution of India covers archaeological sites and remains other than those declared by or under law made by Parliament to be of national importance, under entry 40 of the State List in the Seventh Schedule."}
+
+{"question": "How does the Constitution of India address evacuee property?", "answer": "The Constitution of India addresses the custody, management, and disposal of property (including agricultural land) declared by law to be evacuee property under entry 41 of the State List in the Seventh Schedule."}
+
+{"question": "What subjects are covered under the Constitution of India related to acquisition and requisitioning of property?", "answer": "The Constitution of India covers acquisition and requisitioning of property under entry 42 of the State List in the Seventh Schedule."}
+
+{"question": "How does the Constitution of India address recovery of claims in respect of taxes?", "answer": "The Constitution of India addresses the recovery in a state of claims in respect of taxes and other public demands, including arrears of land-revenue and sums recoverable as such arrears, arising outside that state under entry 43 of the State List in the Seventh Schedule."}
+
+{"question": "What subjects are covered under the Constitution of India related to stamp duties?", "answer": "The Constitution of India covers stamp duties other than duties or fees collected by means of judicial stamps, but not including rates of stamp duty, under entry 44 of the State List in the Seventh Schedule."}
+
+{"question": "How does the Constitution of India address inquiries and statistics for matters specified in List II or List III?", "answer": "The Constitution of India addresses inquiries and statistics for the purposes of any of the matters specified in List II (State List) or List III (Concurrent List) under entry 45 of the State List in the Seventh Schedule."}

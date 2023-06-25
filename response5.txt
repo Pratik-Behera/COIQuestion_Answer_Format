@@ -1,0 +1,39 @@
+{"question": "What is Part IVA of the Constitution of India?", "answer": "Part IVA of the Constitution of India deals with Fundamental Duties. It was added by the 42nd Amendment Act in 1976 and contains a single Article, Article 51A, which lists the fundamental duties of every citizen of India."}
+
+{"question": "Which amendment added the Fundamental Duties to the Indian Constitution?", "answer": "The 42nd Amendment Act in 1976 added the Fundamental Duties to the Indian Constitution."}
+
+{"question": "What is the purpose of Fundamental Duties in the Indian Constitution?", "answer": "The purpose of Fundamental Duties is to remind the citizens of their moral and civic responsibilities towards the nation, to promote a sense of discipline and commitment among them, and to uphold the spirit of unity and harmony in the country."}
+
+{"question": "What are the duties related to national symbols mentioned in the Fundamental Duties?", "answer": "The duties related to national symbols include abiding by the Constitution and respecting its ideals and institutions, the National Flag, and the National Anthem (Article 51A(a))."}
+
+{"question": "How does the Constitution of India address the preservation of cultural heritage?", "answer": "Article 51A(f) of the Constitution of India states that it is the duty of every citizen to value and preserve the rich heritage of India's composite culture."}
+
+{"question": "What are the duties concerning the natural environment in the Constitution of India?", "answer": "Article 51A(g) emphasizes the duty of every citizen to protect and improve the natural environment, including forests, lakes, rivers, and wildlife, and to have compassion for living creatures."}
+
+{"question": "What is the constitutional duty regarding scientific temper and humanism?", "answer": "Article 51A(h) states that it is the duty of every citizen to develop the scientific temper, humanism, and the spirit of inquiry and reform."}
+
+{"question": "How does the Constitution of India promote harmony and brotherhood among its citizens?", "answer": "Article 51A(e) calls upon every citizen to promote harmony and the spirit of common brotherhood amongst all the people of India, transcending religious, linguistic, and regional or sectional diversities, and to renounce practices derogatory to the dignity of women."}
+
+{"question": "What is the duty of every citizen concerning public property and violence?", "answer": "Article 51A(i) states that it is the duty of every citizen to safeguard public property and to abjure violence."}
+
+{"question": "What is the constitutional duty related to individual and collective excellence?", "answer": "Article 51A(j) emphasizes the duty of every citizen to strive towards excellence in all spheres of individual and collective activity so that the nation constantly rises to higher levels of endeavor and achievement."}
+
+{"question": "What is the responsibility of parents and guardians according to the Constitution of India?", "answer": "Article 51A(k) states that it is the duty of parents or guardians to provide opportunities for education to their child or ward between the age of six and fourteen years."}
+
+{"question": "Are Fundamental Duties legally enforceable in India?", "answer": "No, Fundamental Duties are not legally enforceable. They are moral and civic obligations of the citizens but do not carry any legal sanction in case of their violation."}
+
+{"question": "Who is responsible for upholding and protecting the sovereignty, unity, and integrity of India?", "answer": "According to Article 51A(c), it is the duty of every citizen of India to uphold and protect the sovereignty, unity, and integrity of the country."}
+
+{"question": "What is the duty of every citizen concerning national defense?", "answer": "Article 51A(d) states that it is the duty of every citizen to defend the country and render national service when called upon to do so."}
+
+{"question": "How does the Constitution of India address the issue of promoting harmony among different religious and linguistic communities?", "answer": "Article 51A(e) emphasizes the duty of every citizen to promote harmony and the spirit of common brotherhood amongst all the people of India, transcending religious, linguistic, and regional or sectional diversities."}
+
+{"question": "What is the significance of Fundamental Duties in the Indian Constitution?", "answer": "Fundamental Duties serve as a constant reminder to Indian citizens of their moral and civic responsibilities towards the nation, promote a sense of discipline and commitment, and help maintain unity, harmony, and social cohesion in the country."}
+
+{"question": "How many Fundamental Duties are listed in the Constitution of India?", "answer": "There are 11 Fundamental Duties listed in Article 51A of the Constitution of India."}
+
+{"question": "Which article of the Indian Constitution contains the list of Fundamental Duties?", "answer": "Article 51A of the Constitution of India contains the list of Fundamental Duties."}
+
+{"question": "What is the role of education in the Fundamental Duties?", "answer": "According to Article 51A(k), it is the duty of parents or guardians to provide opportunities for education to their child or ward between the age of six and fourteen years, emphasizing the importance of education in nation-building."}
+
+{"question": "Which article of the Indian Constitution deals with the protection of the environment?", "answer": "Article 51A(g) of the Indian Constitution deals with the protection of the environment by emphasizing the duty of every citizen to protect and improve the natural environment, including forests, lakes, rivers, and wildlife, and to have compassion for living creatures."}

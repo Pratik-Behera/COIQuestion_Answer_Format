@@ -1,0 +1,39 @@
+{"question": "What is the short title of the Indian Constitution?", "answer": "The short title of the Indian Constitution is 'The Constitution of India' as mentioned in Article 393."}
+
+{"question": "When did the remaining provisions of the Indian Constitution come into force?", "answer": "The remaining provisions of the Indian Constitution came into force on the twenty-sixth day of January, 1950, which is referred to as the commencement of the Constitution in Article 394."}
+
+{"question": "What is the purpose of Article 394A in the Indian Constitution?", "answer": "Article 394A in the Indian Constitution deals with the authoritative text in the Hindi language. It directs the President to publish translations of the Constitution and its amendments in Hindi, which are deemed to be the authoritative text in Hindi for all purposes."}
+
+{"question": "What are the roles of the President in publishing the Constitution and its amendments in Hindi?", "answer": "The President's roles in publishing the Constitution and its amendments in Hindi, as per Article 394A, include: (a) causing the translation of the Constitution in Hindi with necessary modifications and incorporating all amendments, (b) causing the translation of every amendment in Hindi, and (c) revising the translation suitably if any difficulty arises in construing any part of it."}
+
+{"question": "Which articles of the Indian Constitution came into force at once?", "answer": "The following articles of the Indian Constitution came into force at once: 5, 6, 7, 8, 9, 60, 324, 366, 367, 379, 380, 388, 391, 392, and 393, as mentioned in Article 394."}
+
+{"question": "What does Article 395 of the Indian Constitution state?", "answer": "Article 395 of the Indian Constitution states the repeals of the Indian Independence Act, 1947, and the Government of India Act, 1935, along with all enactments amending or supplementing the latter Act, except the Abolition of Privy Council Jurisdiction Act, 1949."}
+
+{"question": "When is the commencement of the Indian Constitution?", "answer": "The commencement of the Indian Constitution is on the twenty-sixth day of January, 1950, as mentioned in Article 394."}
+
+{"question": "What is the significance of the translations of the Constitution and its amendments in Hindi?", "answer": "The significance of the translations of the Constitution and its amendments in Hindi, as per Article 394A, is to make the Constitution accessible to the Hindi-speaking population and to provide an authoritative text in Hindi for all purposes, ensuring uniform interpretation and understanding."}
+
+{"question": "What is the Abolition of Privy Council Jurisdiction Act, 1949?", "answer": "The Abolition of Privy Council Jurisdiction Act, 1949 is an act that terminated the appellate jurisdiction of the British Privy Council over Indian courts. It is not repealed by the Indian Constitution as mentioned in Article 395."}
+
+{"question": "What does the term 'commencement of this Constitution' refer to?", "answer": "The term 'commencement of this Constitution' refers to the day when the remaining provisions of the Indian Constitution came into force, which is the twenty-sixth day of January, 1950, as mentioned in Article 394."}
+
+{"question": "What does the President do if any difficulty arises in construing any part of the Hindi translation of the Constitution?", "answer": "If any difficulty arises in construing any part of the Hindi translation of the Constitution, the President, as per Article 394A(2), shall cause the translation to be revised suitably to resolve the difficulty."}
+
+{"question": "Which day is referred to as the commencement of the Indian Constitution?", "answer": "The commencement of the Indian Constitution is referred to as the twenty-sixth day of January, 1950, as mentioned in Article 394."}
+
+{"question": "What are the two major acts repealed by the Indian Constitution?", "answer": "The two major acts repealed by the Indian Constitution, as stated in Article 395, are the Indian Independence Act, 1947, and the Government of India Act, 1935."}
+
+{"question": "What is the purpose of repealing the Indian Independence Act, 1947, and the Government of India Act, 1935?", "answer": "The purpose of repealing the Indian Independence Act, 1947, and the Government of India Act, 1935, as mentioned in Article 395, is to replace the previous legal framework governing India with the newly established Indian Constitution, thereby asserting India's sovereignty and the supremacy of its Constitution."}
+
+{"question": "What were the main objectives of the Indian Independence Act, 1947?", "answer": "The main objectives of the Indian Independence Act, 1947 were to provide for the partition of British India into two new Dominions of India and Pakistan, to establish their respective governments, and to end British rule over the Indian subcontinent."}
+
+{"question": "What was the main purpose of the Government of India Act, 1935?", "answer": "The main purpose of the Government of India Act, 1935 was to provide a new legal framework for the governance of British India, introducing provincial autonomy, a federal structure, and a bicameral central legislature."}
+
+{"question": "Which article of the Indian Constitution deals with its commencement?", "answer": "Article 394 of the Indian Constitution deals with its commencement, stating that the remaining provisions of the Constitution shall come into force on the twenty-sixth day of January, 1950."}
+
+{"question": "What is the significance of the commencement of the Indian Constitution?", "answer": "The significance of the commencement of the Indian Constitution is that it marks the establishment of a new legal framework for governing India, asserting its sovereignty, and replacing the previous British colonial laws and regulations."}
+
+{"question": "What is the role of the President in ensuring the accuracy and conformity of the Hindi translation of the Constitution?", "answer": "The role of the President in ensuring the accuracy and conformity of the Hindi translation of the Constitution, as per Article 394A, is to cause the translation to be published with necessary modifications, and to revise the translation suitably if any difficulty arises in construing any part of it."}
+
+{"question": "Which article of the Indian Constitution focuses on the authoritative text in the Hindi language?", "answer": "Article 394A of the Indian Constitution focuses on the authoritative text in the Hindi language, directing the President to publish translations of the Constitution and its amendments in Hindi."}
